@@ -6,11 +6,11 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Explain the problem statement
+This code loads data from Google Sheets into a Pandas DataFrame, preprocesses it by scaling the input features, and splits it into training and testing sets. It defines a simple neural network with TensorFlow/Keras, trains the model on the training data for 500 epochs, and then evaluates its performance on the test set. Finally, the code uses the trained model to make a prediction on a new scaled input value.
 
 ## Neural Network Model
 
-Include the neural network model diagram.
+![image](https://github.com/user-attachments/assets/d872f728-033e-4db6-9c7e-e2e74f2e578b)
 
 ## DESIGN STEPS
 
